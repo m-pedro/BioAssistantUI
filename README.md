@@ -7,5 +7,7 @@ while the chatbot interface UI allows users to engage conversationally, lowering
 literature mining; the agent performs comprehensive searches across databases like PubMed Central [1] and arXiv [2]. Utilizing natural language processing models, it extracts key 
 findings, summarizes articles, and identifies emerging trends, helping researchers stay updated with the latest developments. Our general biological research agent represents a 
 significant advancement in integrating artificial intelligence into biomedical research. We are excited about the possibilities this tool presents and look forward to refining it 
-further, integrating new features, and collaborating with the research community to maximize its impact. 
-[1]PubMed Central, https://www.ncbi.nlm.nih.gov/pmc/  [2]arXiv, https://arxiv.org/.
+further, integrating new features, and collaborating with the research community to maximize its impact.
+
+[1]PubMed Central, https://www.ncbi.nlm.nih.gov/pmc/  
+[2]arXiv, https://arxiv.org/.
